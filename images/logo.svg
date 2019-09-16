@@ -1,0 +1,12 @@
+<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="null" transform="matrix(17.09356689453125,0,0,3.827907085418701,-1319.6724853515625,-222.56512483209372) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="100.453125" x="82" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="null" transform="matrix(7.477973532590104,0,0,9.344534855160502,-550.0836068936363,-872.1625733462242) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="115.453125" x="74" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">Shane' blog</text>
+ </g>
+</svg>
